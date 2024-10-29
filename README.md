@@ -27,3 +27,6 @@ This project leverages machine learning techniques and computer vision to build 
 - **TensorFlow** for loading and running the pre-trained mask detection model.
 - **PIL (Pillow)** for image file handling.
 - **streamlit-webrtc** for real-time webcam streaming through the browser.
+
+![1718186275331](https://github.com/user-attachments/assets/a1f1a20d-fa42-46a8-a186-dd0768548d37)
+![1718186274861](https://github.com/user-attachments/assets/a7d5672a-3e4c-4602-b3a1-e554880cabd0)
